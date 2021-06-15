@@ -16,7 +16,7 @@ function main(currentTime){
     {
         if(confirm('GAME OVER Press OK to restart'))
         {
-            window.location.href
+            location.reload
         }
         return 
     }
